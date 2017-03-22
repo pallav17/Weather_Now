@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Androidstudio\weather app\weather_app_final-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="692a74a93ed2f7b5409ce3c64cfd9ad632bf2033">
+        <dex dex="D:\Androidstudio\weather app\weather_app_final-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3620279ae372bf5547218a4fd5e6f06abf212466\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androidstudio\weather app\weather_app_final-master\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="D:\Androidstudio\weather app\weather_app_final-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_0e021f592b25dab8607a8df47b379d1141fb91c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Androidstudio\weather app\weather_app_final-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="2c54546c8d00dbd257f68a9c6aa78c14df94ba2c">
+        <dex dex="D:\Androidstudio\weather app\weather_app_final-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0f19d7ccff4052dc8f96e467d4c32a346752f0ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioNew\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Androidstudio\weather app\weather_app_final-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_55db1ebc9d458f0212994512c430b7d51f658760\classes.dex" />
+    </item>
+
+</items>

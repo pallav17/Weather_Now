@@ -1,0 +1,48 @@
+<resources>
+
+
+    <!-- Red -->
+    <color name="material_red_500">#ef4437</color>
+    <color name="material_red_50">#fdebed</color>
+    <color name="material_red_100">#faccd2</color>
+    <color name="material_red_200">#ee999a</color>
+    <color name="material_red_300">#e57272</color>
+    <color name="material_red_400">#ef5350</color>
+    <color name="material_red_600">#e53934</color>
+    <color name="material_red_700">#d32e2e</color>
+    <color name="material_red_800">#c52828</color>
+    <color name="material_red_900">#b62025</color>
+    <color name="material_red_A100">#f48980</color>
+    <color name="material_red_A200">#f05454</color>
+    <color name="material_red_A400">#ed2648</color>
+    <color name="material_red_A700">#d31f26</color>
+
+    <!-- Light Yellow -->
+    <color name="material_light_yellow_500">#feea39</color>
+    <color name="material_light_yellow_50">#fefce8</color>
+    <color name="material_light_yellow_100">#fef8c5</color>
+    <color name="material_light_yellow_200">#fdf59f</color>
+    <color name="material_light_yellow_300">#fef177</color>
+    <color name="material_light_yellow_400">#feed57</color>
+    <color name="material_light_yellow_600">#fcd736</color>
+    <color name="material_light_yellow_700">#f9bf2b</color>
+    <color name="material_light_yellow_800">#f8a822</color>
+    <color name="material_light_yellow_900">#f47f1f</color>
+    <color name="material_light_yellow_A100">#faf291</color>
+    <color name="material_light_yellow_A200">#f6eb13</color>
+    <color name="material_light_yellow_A400">#fde800</color>
+    <color name="material_light_yellow_A700">#fdd500</color>
+
+    <!-- Grey -->
+    <color name="material_grey_500">#9d9d9d</color>
+    <color name="material_grey_50">#f9fafa</color>
+    <color name="material_grey_100">#f4f5f5</color>
+    <color name="material_grey_200">#eeeeee</color>
+    <color name="material_grey_300">#e0e0e0</color>
+    <color name="material_grey_400">#bdbcbc</color>
+    <color name="material_grey_600">#757575</color>
+    <color name="material_grey_700">#616161</color>
+    <color name="material_grey_800">#424242</color>
+    <color name="material_grey_900">#202020</color>
+
+</resources>

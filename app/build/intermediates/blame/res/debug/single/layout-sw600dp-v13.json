@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_history.xml",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\layout-sw600dp\\activity_history.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\activity_main.xml",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\layout-sw600dp\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\weather_list_item.xml",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\layout-sw600dp\\weather_list_item.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\splash.xml",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\layout-sw600dp\\splash.xml"
+    }
+]

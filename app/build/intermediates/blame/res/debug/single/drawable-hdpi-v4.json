@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clear.jpg",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable-hdpi\\clear.jpg"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rain.jpg",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable-hdpi\\rain.jpg"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.jpg",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable-hdpi\\logo.jpg"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mist.jpg",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable-hdpi\\mist.jpg"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cloudy.jpg",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable-hdpi\\cloudy.jpg"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\haze1.jpg",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable-hdpi\\haze1.jpg"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\background.jpg",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\h.jpg",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable-hdpi\\h.jpg"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splashlogo.jpg",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable-hdpi\\splashlogo.jpg"
+    }
+]

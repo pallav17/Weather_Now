@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_border.xml",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable\\pressed_border.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_border.xml",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable\\white_border.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grey_border.xml",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable\\grey_border.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_border.xml",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable\\green_border.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather_button.xml",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable\\weather_button.xml"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper2.jpg",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable\\wallpaper2.jpg"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper.jpg",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable\\wallpaper.jpg"
+    },
+    {
+        "merged": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wallpaper3.jpg",
+        "source": "D:\\Androidstudio\\weather app\\weather_app_final-master\\app\\src\\main\\res\\drawable\\wallpaper3.jpg"
+    }
+]
